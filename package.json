@@ -2,7 +2,7 @@
   "name": "hexadog-icons",
   "displayName": "DDD HexaDog Icons",
   "description": "A dog-inspired VS Code icon theme for DDD and hexagonal architecture projects.",
-  "version": "5.32.0",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "precompile": "rimraf dist && bun run verify",
