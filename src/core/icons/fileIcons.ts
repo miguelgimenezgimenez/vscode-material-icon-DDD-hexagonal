@@ -1192,15 +1192,7 @@ export const fileIcons: FileIcons = {
       fileExtensions: ['guard.ts', 'guard.js'],
       enabledFor: [IconPack.Angular, IconPack.Ngrx],
     },
-    {
-      name: 'angular-service',
-      clone: {
-        base: 'angular',
-        color: 'amber-400',
-      },
-      fileExtensions: ['service.ts', 'service.js'],
-      enabledFor: [IconPack.Angular, IconPack.Ngrx],
-    },
+
     {
       name: 'angular-pipe',
       clone: {
@@ -2151,15 +2143,7 @@ export const fileIcons: FileIcons = {
       fileExtensions: ['module.ts', 'module.js'],
       enabledFor: [IconPack.Nest],
     },
-    {
-      name: 'nest-service',
-      clone: {
-        base: 'nest',
-        color: 'amber-400',
-      },
-      fileExtensions: ['service.ts', 'service.js'],
-      enabledFor: [IconPack.Nest],
-    },
+
     {
       name: 'nest-decorator',
       clone: {
@@ -3444,5 +3428,17 @@ export const fileIcons: FileIcons = {
       light: true,
     },
     { name: 'macaulay2', fileExtensions: ['m2'] },
+    {
+      name: 'hexadog-use-case',
+      fileExtensions: ['use-case.ts'],
+    },
+    {
+      name: 'hexadog-port',
+      fileExtensions: ['port.ts'],
+    },
+    {
+      name: 'hexadog-service',
+      fileExtensions: ['service.ts'],
+},
   ]),
 };

@@ -1,7 +1,7 @@
 {
-  "name": "material-icon-theme",
-  "displayName": "Material Icon Theme",
-  "description": "Material Design Icons for Visual Studio Code",
+  "name": "hexadog-icons",
+  "displayName": "DDD HexaDog Icons",
+  "description": "A dog-inspired VS Code icon theme for DDD and hexagonal architecture projects.",
   "version": "5.32.0",
   "license": "MIT",
   "scripts": {
@@ -29,26 +29,22 @@
     "postpublish": "git checkout package.json && git checkout README.md",
     "prepare": "husky"
   },
-  "publisher": "PKief",
+  "publisher": "miguelgimenez",
   "author": {
-    "name": "Material Extensions",
-    "email": "material-icons-extensions@googlegroups.com",
-    "url": "https://github.com/material-extensions"
-  },
-  "funding": "https://github.com/sponsors/material-extensions",
-  "sponsor": {
-    "url": "https://github.com/sponsors/material-extensions"
+    "name": "miguelgimenez",
+    "email": "gimenezgimenezmiguel@gmail.com",
+    "url": "https://github.com/miguelgimenezgimenez"
   },
   "engines": {
     "vscode": "^1.55.0"
   },
-  "homepage": "https://github.com/material-extensions/vscode-material-icon-theme/blob/main/README.md",
+  "homepage": "https://github.com/miguelgimenezgimenez/vscode-material-icon-DDD-hexagonal/blob/main/README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/material-extensions/vscode-material-icon-theme.git"
+    "url": "git+https://github.com/miguelgimenezgimenez/vscode-material-icon-DDD-hexagonal.git"
   },
   "bugs": {
-    "url": "https://github.com/material-extensions/vscode-material-icon-theme/issues"
+    "url": "https://github.com/miguelgimenezgimenez/vscode-material-icon-DDD-hexagonal/issues"
   },
   "icon": "logo.png",
   "galleryBanner": {
@@ -61,9 +57,13 @@
   "keywords": [
     "icons",
     "theme",
-    "material",
     "icon-theme",
-    "customization"
+    "ddd",
+    "hexagonal",
+    "architecture",
+    "dogs",
+    "typescript",
+    "clean-architecture"
   ],
   "extensionKind": [
     "ui",
@@ -86,8 +86,8 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "material-icon-theme",
-        "label": "Material Icon Theme",
+        "id": "hexadog-icons",
+        "label": "HexaDog Icons",
         "path": "./dist/material-icons.json",
         "_watch": true
       }
