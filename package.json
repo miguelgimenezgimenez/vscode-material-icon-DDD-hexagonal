@@ -38,7 +38,7 @@
   "engines": {
     "vscode": "^1.55.0"
   },
-  "homepage": "https://github.com/miguelgimenezgimenez/vscode-material-icon-DDD-hexagonal/blob/main/README.md",
+  "homepage": "https://github.com/miguelgimenezgimenez/vscode-material-icon-DDD-hexagonal",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/miguelgimenezgimenez/vscode-material-icon-DDD-hexagonal.git"
