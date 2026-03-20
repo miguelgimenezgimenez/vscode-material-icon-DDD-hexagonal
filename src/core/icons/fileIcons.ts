@@ -3429,7 +3429,7 @@ export const fileIcons: FileIcons = {
     },
     { name: 'macaulay2', fileExtensions: ['m2'] },
     {
-      name: 'hexadog-use-case',
+      name: 'hexadog-usecase',
       fileExtensions: ['use-case.ts'],
     },
     {
