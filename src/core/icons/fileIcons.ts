@@ -3439,6 +3439,6 @@ export const fileIcons: FileIcons = {
     {
       name: 'hexadog-service',
       fileExtensions: ['service.ts'],
-},
+    },
   ]),
 };
