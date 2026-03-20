@@ -29,9 +29,9 @@
     "postpublish": "git checkout package.json && git checkout README.md",
     "prepare": "husky"
   },
-  "publisher": "miguelgimenez",
+  "publisher": "miguelgimenezgimenez",
   "author": {
-    "name": "miguelgimenez",
+    "name": "miguelgimenezgimenez",
     "email": "gimenezgimenezmiguel@gmail.com",
     "url": "https://github.com/miguelgimenezgimenez"
   },
