@@ -242,7 +242,6 @@ export const fileIcons: FileIcons = {
         'route.tsx',
         'route.js',
         'route.jsx',
-        'routes.ts',
         'routes.tsx',
         'routes.js',
         'routes.jsx',
@@ -3445,12 +3444,24 @@ export const fileIcons: FileIcons = {
       fileExtensions: ['error.ts'],
     },
     {
-      name: 'hexadog-error',
-      fileExtensions: ['-error.ts'],
-    },
-    {
       name: 'hexadog-repository',
       fileExtensions: ['repository.ts'],
+    },
+    {
+      name: 'hexadog-client',
+      fileExtensions: ['client.ts'],
+    },
+    {
+      name: 'hexadog-main',
+      fileExtensions: ['main.ts'],
+    },
+    {
+      name: 'hexadog-routes',
+      fileExtensions: ['routes.ts'],
+    },
+    {
+      name: 'hexadog-server',
+      fileExtensions: ['server.ts'],
     },
   ]),
 };
