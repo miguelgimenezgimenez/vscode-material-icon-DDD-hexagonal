@@ -3448,5 +3448,9 @@ export const fileIcons: FileIcons = {
       name: 'hexadog-error',
       fileExtensions: ['-error.ts'],
     },
+    {
+      name: 'hexadog-repository',
+      fileExtensions: ['repository.ts'],
+    },
   ]),
 };
