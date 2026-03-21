@@ -3453,6 +3453,7 @@ export const fileIcons: FileIcons = {
     },
     {
       name: 'hexadog-main',
+      fileNames: ['main.ts'],
       fileExtensions: ['main.ts'],
     },
     {
@@ -3461,6 +3462,7 @@ export const fileIcons: FileIcons = {
     },
     {
       name: 'hexadog-server',
+      fileNames: ['server.ts'],
       fileExtensions: ['server.ts'],
     },
   ]),
