@@ -21,7 +21,7 @@ DDD HexaDog Icons is based on the Material Icon Theme ecosystem and keeps the sa
 2. Search for DDD HexaDog Icons.
 3. Install and activate the icon theme.
 
-- [DDD HexaDog Icons on Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=miguelgimenez.hexadog-icons)
+- [DDD HexaDog Icons on Visual Studio Marketplace](https://open-vsx.org/extension/miguelgimenez/hexadog-icons)
 
 ## Activate Theme
 
